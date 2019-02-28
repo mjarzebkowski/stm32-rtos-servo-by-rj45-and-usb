@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>stm32-rtos-servo-by-rj45-and-usb</name>
+	<name>stm32-rtos-FatFS</name>
 	<comment></comment>
 	<projects>
 	</projects>
